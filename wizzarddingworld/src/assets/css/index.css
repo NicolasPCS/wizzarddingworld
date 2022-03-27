@@ -1,0 +1,73 @@
+@import url("../fonts/fonts.css");
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --responsive-width: min(90%, 1250px);
+  --primary-font-900: "sofia_problack";
+  --primary-font-700: "sofia_probold";
+  --primary-font-500: "sofia_prosemi_bold";
+  --primary-font-400: "sofia_promedium";
+  --primary-font-300: "sofia_prolight";
+  --primary-font-200: "sofia_proextra_light";
+  --accent-font-bold: "bluu_nextbold";
+  --accent-font-titling: "bluu_nexttitling";
+  --alternative-accent-font: "masonsans_regular";
+  --primary-purple: #6b63b5;
+  --primary-purple-hover: #514a92;
+  --primary-white: #ffff;
+  --main-background: #10141b;
+  --main-background-light: #242633;
+}
+
+.body {
+  font-family: var(--primary-font-500), sans-serif;
+  position: relative;
+  overflow-x: hidden;
+  background-color: var(--main-background);
+}
+
+/* Slider section */
+
+/* Blog section */
+
+.blog {
+  margin-top: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.audio__button {
+  width: 220px;
+  height: 42px;
+  background-color: var(--primary-purple);
+  color: var(--primary-white);
+  font-size: 14px;
+  text-align: center;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-right-radius: 20px;
+  margin-top: 40px;
+  animation: growUp 1s;
+  transition: ease-in;
+  border: 0;
+  animation-timing-function: ease-in-out;
+}
+
+.audio__button-container {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Media Queries */
+
+@media (min-width: 1024px) {
+  .clear-theme {
+    margin-top: 136px;
+  }
+}
