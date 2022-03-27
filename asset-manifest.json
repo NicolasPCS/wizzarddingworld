@@ -1,7 +1,9 @@
 {
   "files": {
     "main.css": "/wizzarddingworld/static/css/main.59412dd9.css",
-    "main.js": "/wizzarddingworld/static/js/main.518b1573.js",
+    "main.js": "/wizzarddingworld/static/js/main.5cb08753.js",
+    "static/js/845.98898c15.chunk.js": "/wizzarddingworld/static/js/845.98898c15.chunk.js",
+    "static/media/hpts.mp3": "/wizzarddingworld/static/media/hpts.3bb4fa06b35a8cf0ad6b.mp3",
     "static/media/blog-3.jpg": "/wizzarddingworld/static/media/blog-3.11ab6f6811ff82ef2ce5.jpg",
     "static/media/blog-2.jpg": "/wizzarddingworld/static/media/blog-2.820f076886a73aa7c088.jpg",
     "static/media/blog-1.jpg": "/wizzarddingworld/static/media/blog-1.8a3cc524bb91a65ab23d.jpg",
@@ -32,10 +34,11 @@
     "static/media/youtube.svg": "/wizzarddingworld/static/media/youtube.474d0cf5558d9543963bae3c3c06a340.svg",
     "static/media/facebook.svg": "/wizzarddingworld/static/media/facebook.48b1552c7bc6d47d8bccf3752380cae9.svg",
     "main.59412dd9.css.map": "/wizzarddingworld/static/css/main.59412dd9.css.map",
-    "main.518b1573.js.map": "/wizzarddingworld/static/js/main.518b1573.js.map"
+    "main.5cb08753.js.map": "/wizzarddingworld/static/js/main.5cb08753.js.map",
+    "845.98898c15.chunk.js.map": "/wizzarddingworld/static/js/845.98898c15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59412dd9.css",
-    "static/js/main.518b1573.js"
+    "static/js/main.5cb08753.js"
   ]
 }
