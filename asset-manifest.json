@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/wizzarddingworld/static/css/main.59412dd9.css",
+    "main.js": "/wizzarddingworld/static/js/main.518b1573.js",
+    "static/media/blog-3.jpg": "/wizzarddingworld/static/media/blog-3.11ab6f6811ff82ef2ce5.jpg",
+    "static/media/blog-2.jpg": "/wizzarddingworld/static/media/blog-2.820f076886a73aa7c088.jpg",
+    "static/media/blog-1.jpg": "/wizzarddingworld/static/media/blog-1.8a3cc524bb91a65ab23d.jpg",
+    "static/media/blog-4.jpg": "/wizzarddingworld/static/media/blog-4.c5a17e53cdf2bd915a8c.jpg",
+    "static/media/blog-audio.jpg": "/wizzarddingworld/static/media/blog-audio.08b9f2edb6bd25b15ae2.jpg",
+    "static/media/sofia_pro_semi_bold-webfont.woff": "/wizzarddingworld/static/media/sofia_pro_semi_bold-webfont.49d9dfecd6b17b05eb31.woff",
+    "static/media/sofia_pro_medium-webfont.woff": "/wizzarddingworld/static/media/sofia_pro_medium-webfont.8e5f0ff06cf27878baf2.woff",
+    "static/media/sofia_pro_bold-webfont.woff": "/wizzarddingworld/static/media/sofia_pro_bold-webfont.7d031e288c744124b230.woff",
+    "static/media/sofia_pro_black-webfont.woff": "/wizzarddingworld/static/media/sofia_pro_black-webfont.9ea884a3ab08afc8c2bc.woff",
+    "static/media/sofia_pro_extra_light-webfont.woff": "/wizzarddingworld/static/media/sofia_pro_extra_light-webfont.fb1b1eed5b1877ad75d8.woff",
+    "static/media/sofia_pro_light-webfont.woff": "/wizzarddingworld/static/media/sofia_pro_light-webfont.87422d2be1f3deaf664f.woff",
+    "static/media/bluunext-bold-webfont.woff": "/wizzarddingworld/static/media/bluunext-bold-webfont.90e5a80da84efe65f02f.woff",
+    "static/media/bluunext-titling-webfont.woff": "/wizzarddingworld/static/media/bluunext-titling-webfont.5cbee9676aab5643cf66.woff",
+    "static/media/sofia_pro_medium-webfont.woff2": "/wizzarddingworld/static/media/sofia_pro_medium-webfont.1a4d9c5e4fc888c2fa63.woff2",
+    "static/media/sofia_pro_semi_bold-webfont.woff2": "/wizzarddingworld/static/media/sofia_pro_semi_bold-webfont.f85ce09e635a4c9fc3d8.woff2",
+    "static/media/masonsans_regular-webfont.woff": "/wizzarddingworld/static/media/masonsans_regular-webfont.941f186de6bdf71432a7.woff",
+    "static/media/sofia_pro_bold-webfont.woff2": "/wizzarddingworld/static/media/sofia_pro_bold-webfont.5ba7563c4ce338c9869a.woff2",
+    "static/media/sofia_pro_black-webfont.woff2": "/wizzarddingworld/static/media/sofia_pro_black-webfont.1839d88863208377e28d.woff2",
+    "static/media/sofia_pro_extra_light-webfont.woff2": "/wizzarddingworld/static/media/sofia_pro_extra_light-webfont.f15f8a4987b679d8b8ec.woff2",
+    "static/media/sofia_pro_light-webfont.woff2": "/wizzarddingworld/static/media/sofia_pro_light-webfont.d9e56ad9dd71016f442d.woff2",
+    "static/media/bluunext-bold-webfont.woff2": "/wizzarddingworld/static/media/bluunext-bold-webfont.f82c4dc149bc671fd7c4.woff2",
+    "static/media/bluunext-titling-webfont.woff2": "/wizzarddingworld/static/media/bluunext-titling-webfont.25e91ab8abbe5dc5169a.woff2",
+    "static/media/masonsans_regular-webfont.woff2": "/wizzarddingworld/static/media/masonsans_regular-webfont.da1c974c34375d90d805.woff2",
+    "static/media/wwlogo.svg": "/wizzarddingworld/static/media/wwlogo.42fb3948bd99abcdd79ff1fe0919b97a.svg",
+    "static/media/twitter.svg": "/wizzarddingworld/static/media/twitter.61e0d408e5c4e9a171efb699bc9ed664.svg",
+    "index.html": "/wizzarddingworld/index.html",
+    "static/media/instagram.svg": "/wizzarddingworld/static/media/instagram.be60fed4230ef592b329403aba21f459.svg",
+    "static/media/youtube.svg": "/wizzarddingworld/static/media/youtube.474d0cf5558d9543963bae3c3c06a340.svg",
+    "static/media/facebook.svg": "/wizzarddingworld/static/media/facebook.48b1552c7bc6d47d8bccf3752380cae9.svg",
+    "main.59412dd9.css.map": "/wizzarddingworld/static/css/main.59412dd9.css.map",
+    "main.518b1573.js.map": "/wizzarddingworld/static/js/main.518b1573.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59412dd9.css",
+    "static/js/main.518b1573.js"
+  ]
+}
