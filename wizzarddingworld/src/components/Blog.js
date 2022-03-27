@@ -1,15 +1,18 @@
 import React from "react";
+import useSound from "use-sound";
 import '../assets/css/index.css';
-import '../assets/css/blog2.css'
-import '../assets/js/main.js'
-import backgroundAudio from '../assets/images/blog/blog-audio.jpg'
-import backgroundBlog1 from '../assets/images/blog/blog-1.jpg'
-import backgroundBlog2 from '../assets/images/blog/blog-2.jpg'
-import backgroundBlog3 from '../assets/images/blog/blog-3.jpg'
-import backgroundBlog4 from '../assets/images/blog/blog-4.jpg'
+import '../assets/css/blog2.css';
+import '../assets/js/main.js';
+import backgroundAudio from '../assets/images/blog/blog-audio.jpg';
+import backgroundBlog1 from '../assets/images/blog/blog-1.jpg';
+import backgroundBlog2 from '../assets/images/blog/blog-2.jpg';
+import backgroundBlog3 from '../assets/images/blog/blog-3.jpg';
+import backgroundBlog4 from '../assets/images/blog/blog-4.jpg';
+import mySound from '../assets/media/hpts.mp3';
 
 
 const Blog = () => {
+    const [playSound] = useSound(mySound)
     return (
         <div className="blog">
             <div className="blog-card">
@@ -25,9 +28,8 @@ const Blog = () => {
                     </p>
                     <p className="blog__button">
                         <a className="audio__button-container">
-                            <button type="button" className="audio__button" onclick="#">Escuchar ahora</button>
+                            <button type="button" className="audio__button" onclick={playSound()}>Escuchar ahora</button>
                         </a>
-                        <audio id="audio"></audio>
                     </p>
                 </div>
             </div>
